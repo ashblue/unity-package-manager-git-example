@@ -1,0 +1,10 @@
+{
+  "name": "clever-crow.example-package",
+  "displayName": "Fluid Behavior Tree",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Ash Blue",
+  "description": "Example playground for tinkering with Git published Unity packages",
+  "dependencies": {
+  }
+}
