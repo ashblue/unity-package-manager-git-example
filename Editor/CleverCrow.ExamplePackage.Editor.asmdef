@@ -1,0 +1,12 @@
+{
+    "name": "CleverCrow.ExamplePackage.Editor",
+    "references": [
+        "CleverCrow.ExamplePackage"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
