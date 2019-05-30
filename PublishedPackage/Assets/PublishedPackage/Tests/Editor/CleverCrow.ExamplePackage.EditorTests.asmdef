@@ -1,0 +1,19 @@
+{
+    "name": "CleverCrow.ExamplePackage.EditorTests",
+    "references": [
+        "CleverCrow.ExamplePackage",
+        "CleverCrow.ExamplePackage.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
