@@ -1,7 +1,8 @@
 {
+  "registry": "https://registry.npmjs.org",
   "dependencies": {
     "clever-crow.example-package": "https://github.com/ashblue/unity-package-manager-git-example.git#upm",
-    "clever-crow.nsubstitute": "https://github.com/ashblue/upm-package-nsubstitute.git",
+    "clever-crow.nsubstitute": "2.0.3",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
@@ -41,10 +42,6 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "clever-crow.nsubstitute": {
-      "hash": "843fddefaff138f2a2af6ca284aaaf066718a3c1",
-      "revision": "HEAD"
-    },
     "clever-crow.example-package": {
       "hash": "ae71433daeef7b1a1687fa1ddadfa2e9704e5f38",
       "revision": "upm"
