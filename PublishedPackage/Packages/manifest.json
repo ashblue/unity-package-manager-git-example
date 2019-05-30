@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "clever-crow.nsubstitute": "https://github.com/ashblue/upm-package-nsubstitute.git",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.3.2",
     "com.unity.collab-proxy": "1.2.16",
@@ -37,5 +38,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "clever-crow.nsubstitute": {
+      "hash": "843fddefaff138f2a2af6ca284aaaf066718a3c1",
+      "revision": "HEAD"
+    }
   }
 }
