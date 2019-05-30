@@ -20,3 +20,4 @@ Several resources here that I found to be very helpful when assembling this repo
 
 * [Git UPM Usage Thread](https://forum.unity.com/threads/git-support-on-package-manager.573673/): A solid thread on Unity Package Manager git URLs
 * [GitDependencyResolverForUnity](https://github.com/mob-sakai/GitDependencyResolverForUnity): Promising looking repo to make nested packages work like NPM with Git URLs
+* [Using NPM with UPM](https://forum.unity.com/threads/other-registries-than-unitys-own-already-work-nice.533691/#post-3514216): How to use NPM pacakges with UPM
